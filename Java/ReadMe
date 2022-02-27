@@ -5,6 +5,7 @@ After conducting an initial interview, we came to a conclusion regarding tools f
 
 Based on the given instruction, we cloned Gilded Rose refactoring kata git repository and choose JAVA as a language for further testing, refactoring the legacy code, removing code smells, and adding new features. Our team focuses on achieving excellent code coverage of the production code and conducted unit testing using IntelliJ IDEA. We then removed code smells at maximum point and refactored the code where we ensured the code is short and concise accordingly. We then added new features based on team discussion by following Test Driven Development (TDD). Our test finding indicates that every test has passed and the Conjured items we added degrade twice as fast as ordinary items. We recorded each session and take screenshots as the professor instructed. Each file/item were uploaded on SharePoint and links are added in this README file.
 
+
 Location of our Mob Programming files:
 https://kennesawedu-my.sharepoint.com/:f:/g/personal/ssubram6_students_kennesaw_edu/ErnZBbljtR1DrKcKNSPcD60BiIs6qUTOm7bljzYJT0i-AQ?e=9uSxCn
 
